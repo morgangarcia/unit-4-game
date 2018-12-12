@@ -1,16 +1,16 @@
 
 
 /* Backgrounds */
-#mainBox{
-	background-image: url("images/darkwoodbkg.jpg");
+body {
+	background-color: bisque;
 }
 
 .jumbotron {
-	background-color: #ffffff;
+	background-color: #ecbebe;
 }
 
 #gameSection, #scoreSection {
-	background-color: #ffffff;
+	background-color: #ecbebe;
 	margin-left: auto;
 	margin-right: auto;
 }
